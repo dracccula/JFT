@@ -499,6 +499,9 @@
       <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.FirstProgram" />
       <module name="JFT.JFT.main" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SvnConfiguration">
