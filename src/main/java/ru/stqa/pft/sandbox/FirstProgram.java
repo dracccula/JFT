@@ -3,7 +3,12 @@ package ru.stqa.pft.sandbox;
 public class FirstProgram {
 
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+        String w = "world";
+        System.out.println("Hello, " + w + "!");
+
+        double l = 7;
+        double s = l * l;
+        System.out.println("Площадь квадрата со стороной " + l + " = " + (s));
     }
 
 }
